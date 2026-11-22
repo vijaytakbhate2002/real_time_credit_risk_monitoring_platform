@@ -1,0 +1,6 @@
+env
+dev_env
+*test*
+*temp*
+*.csv
+.env
